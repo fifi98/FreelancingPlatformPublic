@@ -29,7 +29,10 @@ A website which allows freelancers to find jobs that are posted by employers. Th
 
 ## Client's Feedback
 
-![alt text](screenshots/feedback.png)
+<img src="screenshots/feedback.png" width="371" height="133">
+ 
+
+![alt tesxt](screenshots/feedback.png)
 *Client's feedback*
  
 ## Screenshots
