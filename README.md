@@ -50,3 +50,9 @@ A website which allows freelancers to find jobs that are posted by employers. Th
 
 ![alt text](screenshots/6.png)
 *Employer - posting a new job*
+
+![alt text](screenshots/7.png)
+*Freelancer - listing through job posts*
+
+![alt text](screenshots/8.png)
+*Freelancer - job filters*
