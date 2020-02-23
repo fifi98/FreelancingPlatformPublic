@@ -29,22 +29,16 @@ A website which allows freelancers to find jobs that are posted by employers. Th
 
 ## Client's Feedback
 
-<img src="screenshots/feedback.png" width="371" height="133">
-*Client's feedback*
+<img src="screenshots/feedback.png" width="633" height="100">
  
 ## Screenshots
 
 ![alt text](screenshots/1.png)
-*Displaying data from selected table*
+*Website index page*
 
 ![alt text](screenshots/2.png)
-*Editing an existing record*
+*Login modal*
 
 ![alt text](screenshots/3.png)
-*Adding a new record*
+*Register modal*
 
-![alt text](screenshots/4.png)
-*When new record has been successfully added*
-
-![alt text](screenshots/5.png)
-*When an error occured while inserting a new record*
