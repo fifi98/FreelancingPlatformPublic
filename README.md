@@ -42,3 +42,5 @@ A website which allows freelancers to find jobs that are posted by employers. Th
 ![alt text](screenshots/3.png)
 *Register modal*
 
+![alt text](screenshots/4.png)
+*Employer's dashboard*
