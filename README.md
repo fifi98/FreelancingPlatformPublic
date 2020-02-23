@@ -48,5 +48,5 @@ A website which allows freelancers to find jobs that are posted by employers. Th
 ![alt text](screenshots/5.png)
 *Freelancer - dashboard*
 
-![alt text](screenshots/5.png)
+![alt text](screenshots/6.png)
 *Employer - posting a new job*
